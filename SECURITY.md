@@ -8,8 +8,6 @@ Use GitHub's private reporting: open the **Security** tab of this repository and
 
 Include the WIRE version, your Windows version, what you found, and steps to reproduce it.
 
-[TODO: owner adds a private contact such as an email address, as a second way to report]
-
 ## Supported versions
 
 Only the latest release is supported. WIRE is a young product (version 0.1.0).
